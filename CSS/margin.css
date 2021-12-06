@@ -1,0 +1,23 @@
+.text{
+    height: 300px;
+    width: 200px;
+    color: aliceblue;
+    background-color: black;
+    margin: 100px 200px 300px 400px;
+
+    /*      TB  LR */
+    margin: 0   auto;
+    margin-left: 30px;
+    margin-top: 50px;
+
+    margin: 200px;
+
+    padding: 40px;
+
+    padding-left: 50px;
+
+    padding-top: 50px;
+
+
+
+}

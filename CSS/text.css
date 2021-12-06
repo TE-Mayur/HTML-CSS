@@ -1,0 +1,42 @@
+@import url("font style from net");
+.text{
+    text-align: center;
+    color: coral;
+    font-size: 70px;
+    font-style: italic;
+    font-weight: 500;
+    text-transform: capitalize;
+    text-decoration: overline dotted teal ;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif */
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+
+    word-spacing: 20px;
+
+    /* letter-spacing: 30px; */
+}
+
+#circle{
+    height: 300px;
+    width: 280px;
+    background-color: aqua;
+    background-position: center;
+    margin-left: 35%;
+    border-radius: 45%;
+    border-color: black;
+    border-style: solid;
+}
+
+#super{
+    margin-top: 100px;
+    height: 350;
+    width: 350;
+    background:black;
+    margin-left: 35%;
+    border-left: 2px solid black;
+    border-right: 5px dotted green;
+    
+    
+    
+
+
+}

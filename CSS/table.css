@@ -1,0 +1,33 @@
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* border-radius: 10px;  */
+    
+}
+
+table{
+    height: 200px;
+    width: 500px;
+    text-align: center;
+    margin: 200px auto;
+
+}
+
+th{
+    color: black;
+    background: seashell;    
+}
+
+tr:nth-child(even){
+    color: darkblue;
+    background-color: coral;
+}
+
+tr:nth-child(odd){
+    color: seashell;
+    background-color:rgb(226, 91, 91);
+}
+tr:hover{
+    color: aliceblue;
+    background: #000;
+}

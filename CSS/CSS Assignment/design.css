@@ -1,0 +1,72 @@
+.input-container{
+    height: 450px;
+    width: 380px;
+    text-align: center;
+    /* padding-left: 5px; */
+    
+    margin: auto;
+    margin-top: 200px;
+    background-color:rgb(71, 71, 71) ;
+}
+
+.btn{
+    background-color:rgb(71, 71, 71)  ;
+    outline: none;
+    width: 50%;
+    border: none;
+    outline: none;
+    height: 12%;
+    color: white;
+    cursor: pointer;
+    
+}
+.btn:hover{
+    color:rgb(66,133,244) ;
+}
+
+
+form{
+    background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.reg{
+    background-color:  rgb(66,133,244);
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: none;
+    width: 50%;  
+    height: 12%;  
+    cursor: pointer;
+}
+
+
+
+.reg1{
+    background-color:  rgb(66,133,244);
+    color: white;
+    border: none;
+    outline: none;
+    width: 75%; 
+    height: 9%;   
+    cursor: pointer;
+}
+
+.input-field{
+    width: 75%;
+    height: 9%; 
+    border-radius: 2%;  
+    outline: none; 
+    margin: 5px;
+    border: none;
+    
+}
+
+a{
+    color: rgb(66,133,244); 
+}
+
+h5{
+    color:white;
+}

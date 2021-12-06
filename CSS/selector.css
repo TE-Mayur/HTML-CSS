@@ -1,0 +1,28 @@
+/* Universal Selector */
+/* *{
+    color: cadetblue;
+} */
+a{
+    color: aquamarine;
+}
+
+/* id selector */
+#para{
+    color: blue;
+}
+
+/* class selector */
+.test{
+    color: yellow; background: #000;
+}
+
+/* multiple selector */
+.test,a{
+    color: tomato;
+}
+
+/* root selector */
+
+div h4{
+    color: cornflowerblue;
+}
